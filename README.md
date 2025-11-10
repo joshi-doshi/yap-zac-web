@@ -1,2 +1,2 @@
 # yap-zac
-WIP. Discord alternative built in x64 desktop app in electron.
+WIP. Discord alternative for Android phones, Windows computers, and in web browsers.
