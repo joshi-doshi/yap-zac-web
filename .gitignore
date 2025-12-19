@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# env variables
+.env
+.env.local
+
+# editor-specific settings
+.vscode/
+.idea/
